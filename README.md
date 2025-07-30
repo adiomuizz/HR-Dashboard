@@ -86,6 +86,11 @@ Allows deeper insights into workforce sentiment and HR decision drivers.
 
 ---
 
+## 🌐 Online Report
+
+You can view and interact with the live version of this Power BI HR Dashboard here:
+https://app.powerbi.com/view?r=eyJrIjoiMDFmOGFkZGYtMWRiMS00MzY5LWE0NjEtMWQ5MzA4YTFjOGUxIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9
+
 ## 🙏 Acknowledgments
 
 This HR dashboard was inspired by content from [DataLab365 on YouTube](https://www.youtube.com/@datalab365).  
